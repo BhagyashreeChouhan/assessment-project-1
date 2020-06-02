@@ -1,10 +1,10 @@
 
 .style{
     font-family: latha;
-    color: white;
     background: linear-gradient(rgba(0,0,0,0.65),rgba(0,0,0,0.4)) , url("../pictures/burrito-chicken-delicious-dinner-461198.jpg");
     background-repeat:  no-repeat;
     background-size: cover ;
+    color:white;
 }
 .header{
     display: flex;
@@ -39,7 +39,7 @@
 .footer{
     height: 30px;
     text-align: center;
-    padding-top: 10px;
+    padding-top: 20px;
     padding-bottom: 10px;
      background-color: darkblue; 
      color: cornsilk;
@@ -67,7 +67,6 @@
     padding-left: 40%;
     font-size: 40px;
     font-style: italic;
-    color:white;
 }
 .box {
      width:900px ;
@@ -76,7 +75,6 @@
     box-sizing: border-box;
     margin-left: 150px;
     padding-left: 600px;
-    box-sizing: border-box;
 }
 .box ul{
     list-style-type: none;
@@ -141,7 +139,6 @@
     border-radius: 10px;
     border: black;
     border-width: 5px;
-    border-color: black;
 }
 .store{
     padding: 20px;
@@ -152,11 +149,10 @@
 }
 .catering{
     padding: 20px;
-    padding-left: 30px;
     border-radius: 10px;
     border: black;
     border-width: 5px;
-    margin-left: 50px;
+    margin-left: 100px;
 }
 .container1{
     background-color: indianred;
@@ -217,7 +213,7 @@ a :hover{
     display: flex;
 }
 .i{
-    padding-right: 20px;
+    padding-right: 10px;
 }
 .i1{
     padding-right: 20px;
@@ -226,5 +222,5 @@ a :hover{
     padding-right: 20px;
 }
 .i3{
-    padding-right: 20px;
+    padding-right: 10px;
 }
